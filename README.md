@@ -5,6 +5,8 @@ tp2: héritage et polymorphisme
 Nom prénom: molka hamdouni
 
 classDiagram
+
+
     class Article {
         -int numinventaire
         -String designation
