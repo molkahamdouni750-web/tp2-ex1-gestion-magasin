@@ -1,7 +1,11 @@
 # tp2-ex1-gestion-magasin
 tp2: héritage et polymorphisme
 Nom prénom: molka hamdouni
+
+
 classDiagramme
+    
+    
     class Article {
         -int numinventaire
         -String designation
