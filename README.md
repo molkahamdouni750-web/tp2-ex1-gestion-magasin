@@ -40,6 +40,7 @@ classDiagram
     Article <|-- Article_Lot
     Magasin o-- Article
     TestMagasin ..> Magasin
+              
 
 
 
